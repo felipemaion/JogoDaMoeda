@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy>=1.23
+pandas>=1.5
+
+# Plotting / reports
+matplotlib>=3.6
+
+# Web dashboard
+streamlit>=1.31
+plotly>=5.18
+
+# Optional: enable SciPy-based QQ-plot in some scripts
+# scipy>=1.10
